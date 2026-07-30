@@ -1,138 +1,166 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0D1117,50:1F6FEB,100:8B5CF6&text=Hey,%20I'm%20Abdelrahman%20👋&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=I%20build%20things,%20break%20things,%20then%20pretend%20it%20was%20testing.&descSize=17&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:7C3AED&height=230&section=header&text=Abdelrahman%20Sameh&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Developer%20%7C%20MET%20Student%20%7C%20Building%20Useful%20Systems&descAlignY=58&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=900&color=58A6FF&center=true&vCenter=true&random=false&width=720&lines=Full-stack+developer+in+progress+🚧;React+%2B+TypeScript+%2B+Java+enjoyer;Currently+building+real+projects;Professional+bug+creator+%26+occasional+bug+fixer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1000&color=63B3ED&center=true&vCenter=true&width=760&lines=Full-stack+developer+in+progress;Working+with+TypeScript%2C+React%2C+Java+and+SQL;Focused+on+clean+architecture+and+practical+software;Turning+ideas+into+complete+projects" alt="Typing animation" />
 </a>
 
-<br><br>
+<br />
 
-<img src="https://komarev.com/ghpvc/?username=zorologist&label=PROFILE+VISITORS&color=1f6feb&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/zorologist?label=FOLLOWERS&style=for-the-badge&color=8b5cf6" />
+<img src="https://komarev.com/ghpvc/?username=zorologist&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/zorologist?label=Followers&style=for-the-badge&color=7c3aed" alt="Followers" />
 
 </div>
 
----
+<br />
 
-## 🧑‍💻 Who the hell am I?
+## About Me
 
-```javascript
-const zoro = {
-  name: "Abdelrahman Sameh",
-  location: "Cairo, Egypt 🇪🇬",
-  university: "German University in Cairo",
-  major: "Media Engineering & Technology",
+```ts
+const abdelrahman = {
+  username: "zorologist",
+  location: "Cairo, Egypt",
+  education: "Media Engineering & Technology at GUC",
+  focus: [
+    "Full-Stack Development",
+    "Software Engineering",
+    "Backend Architecture",
+    "Database Design"
+  ],
   currentlyBuilding: "Travel Reimbursement System",
-  interests: ["Full-stack development", "Photography", "F1", "Linux"],
-  lifeStatus: "Turning caffeine into commits",
+  interests: ["Photography", "Graphic Design", "Motorsport"]
 };
 ```
 
-I’m a MET student who likes building software that solves actual problems—not another calculator app that humanity definitely did not need.
+I am a Media Engineering and Technology student interested in building practical software and understanding how complete systems work across the frontend, backend, business logic, and data layers.
 
-Right now, I’m focused on **full-stack development**, backend architecture, databases, and making my GitHub look suspiciously more organized than my desktop.
+My current focus is improving my full-stack development skills through real projects, cleaner architecture, testing, and collaborative development.
 
----
+<br />
 
-## 🚀 Main Quest
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7C3AED&height=2&section=header" width="92%" />
+</div>
+
+## Featured Project
 
 <div align="center">
 
 <a href="https://github.com/zorologist/Travel-Reimbursement-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zorologist&repo=Travel-Reimbursement-System&theme=github_dark&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zorologist&repo=Travel-Reimbursement-System&bg_color=0D1117&title_color=63B3ED&text_color=C9D1D9&icon_color=8B5CF6&hide_border=true&border_radius=14" alt="Travel Reimbursement System repository card" />
 </a>
 
 </div>
 
-### ✈️ Travel Reimbursement System
+### Travel Reimbursement System
 
-A full-stack system that helps employees submit travel requests, move them through approvals, calculate reimbursements, and track the entire process.
+A full-stack workflow application for submitting employee travel requests, routing them through departmental approvals, calculating reimbursements, and preserving a complete audit trail.
 
-**Things it does without bursting into flames:**
+**Highlights**
 
-- Role-based approval workflows
+- Role-based approval workflow
+- Shared frontend and backend contracts
 - Automated reimbursement calculations
-- Request history and audit tracking
-- Shared frontend/backend validation
+- Request tracking and audit history
+- Modular full-stack architecture
 - Tested API endpoints
-- Modular full-stack structure
 
-`React` `TypeScript` `Express` `Vite` `Zod` `Vitest` `Supertest`
+**Built with**
 
----
+`TypeScript` · `React` · `Vite` · `Express` · `Zod` · `Vitest` · `Supertest`
 
-## 🧰 My Current Loadout
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=2&section=header" width="92%" />
+</div>
+
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,ts,js,python,react,nodejs,express,mysql,html,css,git,github,docker,linux,vscode&perline=8&theme=dark" />
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,mysql,html,css&theme=dark" alt="Languages" />
+
+### Frameworks and Tools
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,git,github,docker,vscode,linux&theme=dark" alt="Frameworks and tools" />
 
 </div>
 
----
+<br />
 
-## 📊 GitHub Damage Report
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:1F6FEB&height=2&section=header" width="92%" />
+</div>
+
+## GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zorologist&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zorologist&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zorologist&show_icons=true&hide_border=true&bg_color=0D1117&title_color=63B3ED&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github&border_radius=14" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zorologist&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=63B3ED&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border_radius=14" alt="GitHub streak" />
 
-<br>
+<br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zorologist&theme=github-dark-blue&hide_border=true&border_radius=12" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zorologist&layout=compact&hide_border=true&bg_color=0D1117&title_color=63B3ED&text_color=C9D1D9&langs_count=8&border_radius=14" alt="Most used languages" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zorologist&bg_color=0D1117&color=63B3ED&line=7C3AED&point=22D3EE&area=true&hide_border=true&radius=14" width="96%" alt="Contribution activity graph" />
 
 </div>
 
----
+> GitHub language statistics reflect public repository code and do not represent overall proficiency.
 
-## 🐍 The contribution eater
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:7C3AED,100:22D3EE&height=2&section=header" width="92%" />
+</div>
+
+## Contribution Activity
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zorologist/zorologist/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zorologist/zorologist/output/github-snake.svg">
-  <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/zorologist/zorologist/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/zorologist/zorologist/output/github-snake.svg" width="100%" />
 </picture>
 
 </div>
 
----
+<br />
 
-## 🎯 Current Side Quests
+## Current Goals
 
-- Ship the Travel Reimbursement System
-- Get better at backend and database design
-- Build projects that are useful, polished, and documented
-- Stop naming folders `final-final-real-v3`
-- Survive university without becoming a deprecated dependency
+- Build and document complete full-stack applications
+- Improve backend architecture and database design
+- Write cleaner, well-tested, maintainable code
+- Strengthen collaborative development using Git and GitHub
+- Continue developing projects with practical value
 
----
+<br />
 
-## 🤝 Find me lurking here
+## Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/zorologist">
-  <img src="https://img.shields.io/badge/GitHub-zorologist-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-zorologist-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<!-- Replace YOUR_LINKEDIN_URL, then remove this comment.
+<!-- Replace YOUR_LINKEDIN_URL and remove this comment.
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman%20Sameh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman%20Sameh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 -->
 
 </div>
 
-<br>
+<br />
 
-<div align="center">
-
-### Thanks for visiting. The bugs were already here when I arrived.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:8B5CF6,50:1F6FEB,100:0D1117&section=footer" width="100%" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" />
