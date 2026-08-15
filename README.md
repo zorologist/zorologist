@@ -1,66 +1,198 @@
-# Abdelrahman Sameh
+<div align="center">
 
-**Media Engineering and Technology student at the German University in Cairo**<br>
-Full-stack development · backend architecture · practical software systems
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:7C3AED&height=235&section=header&text=Abdelrahman%20Sameh&fontSize=45&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20Student%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20Linux%20Enthusiast&descAlignY=58&animation=fadeIn" width="100%" alt="Abdelrahman Sameh" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-zorologist-181717?style=flat-square&logo=github)](https://github.com/zorologist)
-[![Email](https://img.shields.io/badge/Email-abdelrahman.darag%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:abdelrahman.darag@gmail.com)
-[![CV](https://img.shields.io/badge/CV-View_PDF-2478A7?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./assets/Abdelrahman_Sameh_CV.pdf)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=900&color=63B3ED&center=true&vCenter=true&width=850&lines=I+follow+the+whole+system%3A+UI+%E2%86%92+API+%E2%86%92+database+%E2%86%92+deployment;Led+a+9-person+team+through+106+commits+and+185+tests;Building+with+TypeScript%2C+React%2C+Express+and+PostgreSQL;Arch+Linux+daily+driver+%E2%80%94+curious+all+the+way+down" alt="Animated introduction" />
+</a>
 
-I build software by following the complete path from a user workflow to the API, data model, security boundary, tests, and deployment. My strongest recent work is an internal travel-reimbursement platform built with a nine-person team for a real organizational workflow.
+<br><br>
 
-## Featured project
+<a href="./assets/Abdelrahman_Sameh_CV.pdf">
+  <img src="https://img.shields.io/badge/VIEW_MY_CV-2478A7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View CV" />
+</a>
+<a href="mailto:abdelrahman.darag@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL_ME-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abdelrahman" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=zorologist&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" alt="Profile views" />
 
-### [Travel Reimbursement System](https://github.com/zorologist/Travel-Reimbursement-System)
+</div>
 
-An enterprise-style workflow application for employee travel requests and reimbursements. Requests move through Manager, Public Relations, Transportation, Timing, and Payroll review before being finalized with an auditable calculation history.
+## `whoami`
 
-**What makes it interesting**
+```ts
+const abdelrahman = {
+  username: "zorologist",
+  location: "Cairo, Egypt",
+  education: "Media Engineering & Technology @ GUC",
+  mindset: "Understand the whole system, then make it simpler",
+  currentStack: ["TypeScript", "React", "Express", "PostgreSQL"],
+  dailyEnvironment: "Arch Linux",
+  interests: ["Software architecture", "Networks", "Photography", "Motorsport"],
+};
+```
 
-- Role- and stage-aware approval workflow with deliberately restricted data views
-- React and TypeScript frontend backed by a Node.js/Express API
-- Shared Zod schemas and TypeScript contracts across all workspaces
-- PostgreSQL persistence, migrations, directory-user imports, and append-only audit/revision history
-- IIS/Windows Authentication and Kerberos deployment design without collecting Active Directory passwords
-- Session-bound CSRF protection, secure cookies, rate limiting, validation, and production configuration checks
-- Offline Windows/IIS deployment tooling and operational handoff documentation
-- **185 automated tests** across the shared calculation library, frontend, API, authentication, authorization, and complete workflow journeys
+I like projects where the interesting part is not just a screen or an endpoint, but how the **workflow, permissions, data, failure cases, tests, and deployment** fit together. My latest project pushed me through all of those layers at once.
 
-I led/coordinated the nine-person team and authored **62 of the repository's 106 commits**, contributing across the initial architecture, frontend, backend, PostgreSQL integration, workflow logic, authentication, testing, documentation, and deployment preparation.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7C3AED&height=2&section=header" width="94%" alt="Section divider" />
+</div>
+
+## ⚡ Featured build: Travel Reimbursement System
+
+<div align="center">
+
+<a href="https://github.com/zorologist/Travel-Reimbursement-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zorologist&repo=Travel-Reimbursement-System&bg_color=0D1117&title_color=63B3ED&text_color=C9D1D9&icon_color=8B5CF6&hide_border=true&border_radius=14" alt="Travel Reimbursement System repository" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/TEAM-9_PEOPLE-1F6FEB?style=flat-square" alt="Nine-person team" />
+<img src="https://img.shields.io/badge/MY_COMMITS-62_%2F_106-7C3AED?style=flat-square" alt="62 of 106 commits" />
+<img src="https://img.shields.io/badge/AUTOMATED_TESTS-185-22A699?style=flat-square" alt="185 automated tests" />
+<img src="https://img.shields.io/badge/WORKSPACES-3-F59E0B?style=flat-square" alt="Three workspaces" />
+
+</div>
+
+An enterprise-style application that takes an employee travel request through a real multi-department process:
+
+```text
+Employee → Manager → Public Relations → Transportation → Timing → Payroll → Complete
+```
+
+I led and coordinated the nine-person team and contributed across the initial architecture, frontend, backend, PostgreSQL integration, authentication, workflow logic, testing, documentation, and deployment preparation.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 System design</h3>
+      <ul>
+        <li>npm monorepo: shared, frontend and backend</li>
+        <li>React + TypeScript user interface</li>
+        <li>Node.js + Express REST API</li>
+        <li>PostgreSQL migrations and employee imports</li>
+        <li>Shared Zod schemas and TypeScript contracts</li>
+        <li>Server-owned reimbursement calculations</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Trust boundaries</h3>
+      <ul>
+        <li>Role- and workflow-stage authorization</li>
+        <li>Redacted views for sensitive financial data</li>
+        <li>IIS / Windows Authentication / Kerberos design</li>
+        <li>Secure sessions and CSRF protection</li>
+        <li>Rate limiting and production config checks</li>
+        <li>Append-only audit and price-revision history</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+The suite covers salary calculations, frontend services, API contracts, authentication modes, authorization boundaries, error handling, and complete workflow journeys. The current public snapshot **type-checks, builds, and passes all 185 tests**.
+
+<div align="center">
 
 `TypeScript` · `React` · `Node.js` · `Express` · `PostgreSQL` · `Zod` · `Vitest` · `Supertest` · `IIS/Kerberos`
 
-## Other work
+</div>
 
-### [DoorDash: Scare vs Laugh Touchdown](https://github.com/zorologist/DoorDash)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=2&section=header" width="94%" alt="Section divider" />
+</div>
 
-A four-person Monsters, Inc.-themed board game built with Java and JavaFX. I implemented the monster information panel and related assets, contributed UI feedback and controller integration, and worked on card/cell behavior across **17 commits**.
+## 🎮 Side quest: DoorDash
 
-`Java` · `JavaFX` · `OOP` · `MVC` · `CSV data loading`
+<a href="https://github.com/zorologist/DoorDash"><strong>Scare vs Laugh Touchdown</strong></a> is a four-person Monsters, Inc.-themed board game built with Java and JavaFX.
 
-### Systems and networking
+- Built the Monster information panel and its visual assets
+- Contributed UI feedback, indicators, and controller/App integration
+- Worked on card and cell behavior across **17 commits**
+- Used polymorphic Monster/Card hierarchies, specialized cells, custom exceptions, and CSV-driven game data
 
-- Repurposed a Sony Vaio laptop as a headless Debian home server with network storage.
-- Built and troubleshot a multi-floor home network using mesh Wi-Fi and access-point/extender configurations.
-- Studied enterprise Network Access Control and delivered a technical presentation covering 802.1X, posture assessment, Active Directory integration, firewalls, proxies, DNS, and DHCP.
-- Use Arch Linux as my daily development environment and regularly work from the terminal for Git, builds, debugging, and system administration.
+`Java` · `JavaFX` · `OOP` · `MVC` · `CSV`
 
-## Technical toolbox
+## 🖥️ Beyond the code editor
 
-| Area | Technologies |
-|---|---|
-| Full stack | TypeScript, React, Node.js, Express, REST APIs, Zod |
-| Data and testing | PostgreSQL, SQL migrations, Vitest, Supertest |
-| Java and coursework | Java, JavaFX, C, Haskell, Prolog, Python |
-| Systems | Linux, Bash, Git, IIS, Windows Authentication, LDAP/Kerberos concepts |
+- Repurposed a Sony Vaio into a headless Debian home server with network storage.
+- Built and troubleshot a multi-floor mesh/access-point home network.
+- Delivered a technical presentation on Network Access Control: 802.1X, posture assessment, Active Directory, firewalls, proxies, DNS, and DHCP.
+- Run Arch Linux daily and enjoy understanding the machinery beneath the interface.
 
-## Currently improving
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:1F6FEB&height=2&section=header" width="94%" alt="Section divider" />
+</div>
 
-- Designing maintainable backend services and relational data models
-- Testing complete user journeys, authorization boundaries, and failure cases
-- Turning technical projects into clear documentation and reproducible deployments
-- Deepening TypeScript, React, PostgreSQL, Linux, and network-security knowledge
+## 🧰 Toolbox
 
----
+<div align="center">
 
-<sub>GitHub statistics show public repository activity, not proficiency. Project claims above are based on the repositories' code, tests, and history.</sub>
+### Building with
+
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,vite,html,css&theme=dark" alt="Current full-stack tools" />
+
+### Also worked with
+
+<img src="https://skillicons.dev/icons?i=java,python,c,git,github,linux,bash,vscode,eclipse&theme=dark" alt="Additional languages and tools" />
+
+</div>
+
+> Tools are evidence of what I have worked with—not a claim that I have finished learning them.
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:7C3AED,100:22D3EE&height=2&section=header" width="94%" alt="Section divider" />
+</div>
+
+## 📊 GitHub signal
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zorologist&show_icons=true&hide_border=true&bg_color=0D1117&title_color=63B3ED&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github&border_radius=14" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zorologist&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=63B3ED&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border_radius=14" alt="GitHub streak" />
+
+<br>
+
+<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zorologist&layout=compact&hide_border=true&bg_color=0D1117&title_color=63B3ED&text_color=C9D1D9&langs_count=8&border_radius=14" alt="Most used public repository languages" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zorologist&bg_color=0D1117&color=63B3ED&line=7C3AED&point=22D3EE&area=true&hide_border=true&radius=14" width="96%" alt="Contribution activity graph" />
+
+</div>
+
+<sub>Public-repository language statistics show code volume, not proficiency.</sub>
+
+## 🐍 Contribution trail
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zorologist/zorologist/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zorologist/zorologist/output/github-contribution-grid-snake.svg">
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/zorologist/zorologist/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+## 🎯 Current arc
+
+- Make the Travel Reimbursement System easier to demo and understand visually
+- Strengthen backend architecture and relational database design
+- Treat testing, authorization, and failure states as first-class features
+- Keep building software with practical value—and enough personality to remember
+
+<div align="center">
+
+### Build the whole thing. Understand every layer. Leave it cleaner than you found it.
+
+<a href="mailto:abdelrahman.darag@gmail.com">
+  <img src="https://img.shields.io/badge/LET'S_TALK-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Abdelrahman" />
+</a>
+<a href="https://github.com/zorologist">
+  <img src="https://img.shields.io/badge/FOLLOW_THE_BUILD-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1F6FEB,100:0D1117&height=125&section=footer" width="100%" alt="Footer" />
+
+</div>
