@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:7C3AED&height=235&section=header&text=Abdelrahman%20Sameh&fontSize=45&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20Student%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20Linux%20Enthusiast&descAlignY=58&animation=fadeIn" width="100%" alt="Abdelrahman Sameh" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=900&color=63B3ED&center=true&vCenter=true&width=850&lines=I+follow+the+whole+system%3A+UI+%E2%86%92+API+%E2%86%92+database+%E2%86%92+deployment;Led+a+9-person+team+through+106+commits+and+185+tests;Code%2C+photography+and+design+are+all+ways+of+building+an+experience;Arch+Linux+daily+driver+%E2%80%94+curious+all+the+way+down" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=900&color=63B3ED&center=true&vCenter=true&width=850&lines=I+follow+the+whole+system%3A+UI+%E2%86%92+API+%E2%86%92+database+%E2%86%92+deployment;Led+a+9-person+team+through+107+commits+and+185+tests;Code%2C+photography+and+design+are+all+ways+of+building+an+experience;Arch+Linux+daily+driver+%E2%80%94+curious+all+the+way+down" alt="Animated introduction" />
 </a>
 
 <br><br>
@@ -50,7 +50,7 @@ I like projects where the interesting part is not just a screen or an endpoint, 
 <br><br>
 
 <img src="https://img.shields.io/badge/TEAM-9_PEOPLE-1F6FEB?style=flat-square" alt="Nine-person team" />
-<img src="https://img.shields.io/badge/MY_COMMITS-62_%2F_106-7C3AED?style=flat-square" alt="62 of 106 commits" />
+<img src="https://img.shields.io/badge/MY_COMMITS-63_%2F_107-7C3AED?style=flat-square" alt="63 of 107 commits in the original team history" />
 <img src="https://img.shields.io/badge/AUTOMATED_TESTS-185-22A699?style=flat-square" alt="185 automated tests" />
 <img src="https://img.shields.io/badge/WORKSPACES-3-F59E0B?style=flat-square" alt="Three workspaces" />
 
@@ -91,7 +91,7 @@ I led and coordinated the nine-person team and contributed across the initial ar
   </tr>
 </table>
 
-The suite covers salary calculations, frontend services, API contracts, authentication modes, authorization boundaries, error handling, and complete workflow journeys. The current public snapshot **type-checks, builds, and passes all 185 tests**.
+The suite covers salary calculations, frontend services, API contracts, authentication modes, authorization boundaries, error handling, and complete workflow journeys. The sanitized public edition **type-checks, builds, passes all 185 tests, and reports zero known dependency vulnerabilities**.
 
 <div align="center">
 
@@ -216,7 +216,7 @@ Before full-stack systems became my main technical focus, photography and visual
 
 ## 🎯 Current arc
 
-- Make the Travel Reimbursement System easier to demo and understand visually
+- Turn my strongest engineering and creative work into one coherent portfolio
 - Strengthen backend architecture and relational database design
 - Treat testing, authorization, and failure states as first-class features
 - Keep building software with practical value—and enough personality to remember
