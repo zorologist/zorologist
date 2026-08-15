@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:7C3AED&height=235&section=header&text=Abdelrahman%20Sameh&fontSize=45&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20Student%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20Linux%20Enthusiast&descAlignY=58&animation=fadeIn" width="100%" alt="Abdelrahman Sameh" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=900&color=63B3ED&center=true&vCenter=true&width=850&lines=I+follow+the+whole+system%3A+UI+%E2%86%92+API+%E2%86%92+database+%E2%86%92+deployment;Led+a+9-person+team+through+106+commits+and+185+tests;Building+with+TypeScript%2C+React%2C+Express+and+PostgreSQL;Arch+Linux+daily+driver+%E2%80%94+curious+all+the+way+down" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=900&color=63B3ED&center=true&vCenter=true&width=850&lines=I+follow+the+whole+system%3A+UI+%E2%86%92+API+%E2%86%92+database+%E2%86%92+deployment;Led+a+9-person+team+through+106+commits+and+185+tests;Code%2C+photography+and+design+are+all+ways+of+building+an+experience;Arch+Linux+daily+driver+%E2%80%94+curious+all+the+way+down" alt="Animated introduction" />
 </a>
 
 <br><br>
@@ -27,12 +27,13 @@ const abdelrahman = {
   education: "Media Engineering & Technology @ GUC",
   mindset: "Understand the whole system, then make it simpler",
   currentStack: ["TypeScript", "React", "Express", "PostgreSQL"],
+  creativeStack: ["Photography", "Photoshop", "Illustrator", "Lightroom", "Premiere Pro"],
   dailyEnvironment: "Arch Linux",
   interests: ["Software architecture", "Networks", "Photography", "Motorsport"],
 };
 ```
 
-I like projects where the interesting part is not just a screen or an endpoint, but how the **workflow, permissions, data, failure cases, tests, and deployment** fit together. My latest project pushed me through all of those layers at once.
+I like projects where the interesting part is not just a screen or an endpoint, but how the **workflow, permissions, data, failure cases, tests, deployment, and visual experience** fit together. My latest project pushed me through all of those layers at once.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7C3AED&height=2&section=header" width="94%" alt="Section divider" />
@@ -113,11 +114,41 @@ The suite covers salary calculations, frontend services, API contracts, authenti
 
 `Java` · `JavaFX` · `OOP` · `MVC` · `CSV`
 
+## 📸 The creative half
+
+Before full-stack systems became my main technical focus, photography and visual design taught me how to frame a problem, direct attention, and make the final result feel intentional.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Photography & production</h3>
+      <ul>
+        <li>Manual camera operation and event photography</li>
+        <li>Photo selection, color work, and retouching</li>
+        <li>Graphic assets and visual identity systems</li>
+        <li>Video editing and media production</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Creative leadership</h3>
+      <ul>
+        <li>TEDx GUC Media & Design Team, 2025–present</li>
+        <li>Head of Media & Science, Student Union, 2023–2024</li>
+        <li>Led school TEDx branding and official digital platforms</li>
+        <li>Recognized for creative strategy and execution</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+`Adobe Photoshop` · `Illustrator` · `Lightroom` · `Premiere Pro` · `Photography` · `Visual identity`
+
 ## 🖥️ Beyond the code editor
 
 - Repurposed a Sony Vaio into a headless Debian home server with network storage.
 - Built and troubleshot a multi-floor mesh/access-point home network.
 - Delivered a technical presentation on Network Access Control: 802.1X, posture assessment, Active Directory, firewalls, proxies, DNS, and DHCP.
+- Coordinated engineers and 50+ workers as a part-time construction-site supervisor, learning how to keep real work moving under pressure.
 - Run Arch Linux daily and enjoy understanding the machinery beneath the interface.
 
 <div align="center">
@@ -135,6 +166,14 @@ The suite covers salary calculations, frontend services, API contracts, authenti
 ### Also worked with
 
 <img src="https://skillicons.dev/icons?i=java,python,c,git,github,linux,bash,vscode,eclipse&theme=dark" alt="Additional languages and tools" />
+
+### Creating with
+
+<img src="https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Adobe Photoshop" />
+<img src="https://img.shields.io/badge/Adobe_Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" alt="Adobe Illustrator" />
+<img src="https://img.shields.io/badge/Adobe_Lightroom-001E36?style=for-the-badge&logo=adobelightroom&logoColor=31A8FF" alt="Adobe Lightroom" />
+<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-00005B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" alt="Adobe Premiere Pro" />
+<img src="https://img.shields.io/badge/Photography-111827?style=for-the-badge&logo=canon&logoColor=white" alt="Photography" />
 
 </div>
 
@@ -181,6 +220,7 @@ The suite covers salary calculations, frontend services, API contracts, authenti
 - Strengthen backend architecture and relational database design
 - Treat testing, authorization, and failure states as first-class features
 - Keep building software with practical value—and enough personality to remember
+- Keep photography and design in the process instead of treating them as a footnote
 
 <div align="center">
 
