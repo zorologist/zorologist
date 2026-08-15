@@ -1,166 +1,66 @@
-<div align="center">
+# Abdelrahman Sameh
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:7C3AED&height=230&section=header&text=Abdelrahman%20Sameh&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Developer%20%7C%20MET%20Student%20%7C%20Building%20Useful%20Systems&descAlignY=58&animation=fadeIn" width="100%" />
+**Media Engineering and Technology student at the German University in Cairo**<br>
+Full-stack development · backend architecture · practical software systems
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1000&color=63B3ED&center=true&vCenter=true&width=760&lines=Full-stack+developer+in+progress;Working+with+TypeScript%2C+React%2C+Java+and+SQL;Focused+on+clean+architecture+and+practical+software;Turning+ideas+into+complete+projects" alt="Typing animation" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-zorologist-181717?style=flat-square&logo=github)](https://github.com/zorologist)
+[![Email](https://img.shields.io/badge/Email-abdelrahman.darag%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:abdelrahman.darag@gmail.com)
+[![CV](https://img.shields.io/badge/CV-View_PDF-2478A7?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./assets/Abdelrahman_Sameh_CV.pdf)
 
-<br />
+I build software by following the complete path from a user workflow to the API, data model, security boundary, tests, and deployment. My strongest recent work is an internal travel-reimbursement platform built with a nine-person team for a real organizational workflow.
 
-<img src="https://komarev.com/ghpvc/?username=zorologist&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/zorologist?label=Followers&style=for-the-badge&color=7c3aed" alt="Followers" />
+## Featured project
 
-</div>
+### [Travel Reimbursement System](https://github.com/zorologist/Travel-Reimbursement-System)
 
-<br />
+An enterprise-style workflow application for employee travel requests and reimbursements. Requests move through Manager, Public Relations, Transportation, Timing, and Payroll review before being finalized with an auditable calculation history.
 
-## About Me
+**What makes it interesting**
 
-```ts
-const abdelrahman = {
-  username: "zorologist",
-  location: "Cairo, Egypt",
-  education: "Media Engineering & Technology at GUC",
-  focus: [
-    "Full-Stack Development",
-    "Software Engineering",
-    "Backend Architecture",
-    "Database Design"
-  ],
-  currentlyBuilding: "Travel Reimbursement System",
-  interests: ["Photography", "Graphic Design", "Motorsport"]
-};
-```
+- Role- and stage-aware approval workflow with deliberately restricted data views
+- React and TypeScript frontend backed by a Node.js/Express API
+- Shared Zod schemas and TypeScript contracts across all workspaces
+- PostgreSQL persistence, migrations, directory-user imports, and append-only audit/revision history
+- IIS/Windows Authentication and Kerberos deployment design without collecting Active Directory passwords
+- Session-bound CSRF protection, secure cookies, rate limiting, validation, and production configuration checks
+- Offline Windows/IIS deployment tooling and operational handoff documentation
+- **185 automated tests** across the shared calculation library, frontend, API, authentication, authorization, and complete workflow journeys
 
-I am a Media Engineering and Technology student interested in building practical software and understanding how complete systems work across the frontend, backend, business logic, and data layers.
+I led/coordinated the nine-person team and authored **62 of the repository's 106 commits**, contributing across the initial architecture, frontend, backend, PostgreSQL integration, workflow logic, authentication, testing, documentation, and deployment preparation.
 
-My current focus is improving my full-stack development skills through real projects, cleaner architecture, testing, and collaborative development.
+`TypeScript` · `React` · `Node.js` · `Express` · `PostgreSQL` · `Zod` · `Vitest` · `Supertest` · `IIS/Kerberos`
 
-<br />
+## Other work
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7C3AED&height=2&section=header" width="92%" />
-</div>
+### [DoorDash: Scare vs Laugh Touchdown](https://github.com/zorologist/DoorDash)
 
-## Featured Project
+A four-person Monsters, Inc.-themed board game built with Java and JavaFX. I implemented the monster information panel and related assets, contributed UI feedback and controller integration, and worked on card/cell behavior across **17 commits**.
 
-<div align="center">
+`Java` · `JavaFX` · `OOP` · `MVC` · `CSV data loading`
 
-<a href="https://github.com/zorologist/Travel-Reimbursement-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zorologist&repo=Travel-Reimbursement-System&bg_color=0D1117&title_color=63B3ED&text_color=C9D1D9&icon_color=8B5CF6&hide_border=true&border_radius=14" alt="Travel Reimbursement System repository card" />
-</a>
+### Systems and networking
 
-</div>
+- Repurposed a Sony Vaio laptop as a headless Debian home server with network storage.
+- Built and troubleshot a multi-floor home network using mesh Wi-Fi and access-point/extender configurations.
+- Studied enterprise Network Access Control and delivered a technical presentation covering 802.1X, posture assessment, Active Directory integration, firewalls, proxies, DNS, and DHCP.
+- Use Arch Linux as my daily development environment and regularly work from the terminal for Git, builds, debugging, and system administration.
 
-### Travel Reimbursement System
+## Technical toolbox
 
-A full-stack workflow application for submitting employee travel requests, routing them through departmental approvals, calculating reimbursements, and preserving a complete audit trail.
+| Area | Technologies |
+|---|---|
+| Full stack | TypeScript, React, Node.js, Express, REST APIs, Zod |
+| Data and testing | PostgreSQL, SQL migrations, Vitest, Supertest |
+| Java and coursework | Java, JavaFX, C, Haskell, Prolog, Python |
+| Systems | Linux, Bash, Git, IIS, Windows Authentication, LDAP/Kerberos concepts |
 
-**Highlights**
+## Currently improving
 
-- Role-based approval workflow
-- Shared frontend and backend contracts
-- Automated reimbursement calculations
-- Request tracking and audit history
-- Modular full-stack architecture
-- Tested API endpoints
+- Designing maintainable backend services and relational data models
+- Testing complete user journeys, authorization boundaries, and failure cases
+- Turning technical projects into clear documentation and reproducible deployments
+- Deepening TypeScript, React, PostgreSQL, Linux, and network-security knowledge
 
-**Built with**
+---
 
-`TypeScript` · `React` · `Vite` · `Express` · `Zod` · `Vitest` · `Supertest`
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=2&section=header" width="92%" />
-</div>
-
-## Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,ts,js,python,mysql,html,css&theme=dark" alt="Languages" />
-
-### Frameworks and Tools
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,git,github,docker,vscode,linux&theme=dark" alt="Frameworks and tools" />
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:1F6FEB&height=2&section=header" width="92%" />
-</div>
-
-## GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zorologist&show_icons=true&hide_border=true&bg_color=0D1117&title_color=63B3ED&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github&border_radius=14" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zorologist&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=63B3ED&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border_radius=14" alt="GitHub streak" />
-
-<br />
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zorologist&layout=compact&hide_border=true&bg_color=0D1117&title_color=63B3ED&text_color=C9D1D9&langs_count=8&border_radius=14" alt="Most used languages" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zorologist&bg_color=0D1117&color=63B3ED&line=7C3AED&point=22D3EE&area=true&hide_border=true&radius=14" width="96%" alt="Contribution activity graph" />
-
-</div>
-
-> GitHub language statistics reflect public repository code and do not represent overall proficiency.
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:7C3AED,100:22D3EE&height=2&section=header" width="92%" />
-</div>
-
-## Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zorologist/zorologist/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zorologist/zorologist/output/github-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/zorologist/zorologist/output/github-snake.svg" width="100%" />
-</picture>
-
-</div>
-
-<br />
-
-## Current Goals
-
-- Build and document complete full-stack applications
-- Improve backend architecture and database design
-- Write cleaner, well-tested, maintainable code
-- Strengthen collaborative development using Git and GitHub
-- Continue developing projects with practical value
-
-<br />
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/zorologist">
-  <img src="https://img.shields.io/badge/GitHub-zorologist-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<!-- Replace YOUR_LINKEDIN_URL and remove this comment.
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman%20Sameh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
--->
-
-</div>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" />
+<sub>GitHub statistics show public repository activity, not proficiency. Project claims above are based on the repositories' code, tests, and history.</sub>
