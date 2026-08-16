@@ -39,7 +39,7 @@ I like projects where the interesting part is not just a screen or an endpoint, 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:7C3AED&height=2&section=header" width="94%" alt="Section divider" />
 </div>
 
-## ⚡ Featured build: Travel Reimbursement System
+## Featured build: Travel Reimbursement System
 
 <div align="center">
 
@@ -67,7 +67,7 @@ I led and coordinated the nine-person team and contributed across the initial ar
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧩 System design</h3>
+      <h3>System design</h3>
       <ul>
         <li>npm monorepo: shared, frontend and backend</li>
         <li>React + TypeScript user interface</li>
@@ -78,7 +78,7 @@ I led and coordinated the nine-person team and contributed across the initial ar
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ Trust boundaries</h3>
+      <h3>Trust boundaries</h3>
       <ul>
         <li>Role- and workflow-stage authorization</li>
         <li>Redacted views for sensitive financial data</li>
@@ -103,7 +103,7 @@ The suite covers salary calculations, frontend services, API contracts, authenti
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=2&section=header" width="94%" alt="Section divider" />
 </div>
 
-## 🎮 Side quest: DoorDash
+## Side quest: DoorDash
 
 <a href="https://github.com/zorologist/DoorDash"><strong>Scare vs Laugh Touchdown</strong></a> is a four-person Monsters, Inc.-themed board game built with Java and JavaFX.
 
@@ -114,7 +114,7 @@ The suite covers salary calculations, frontend services, API contracts, authenti
 
 `Java` · `JavaFX` · `OOP` · `MVC` · `CSV`
 
-## 📸 The creative half
+## The creative half
 
 Before full-stack systems became my main technical focus, photography and visual design taught me how to frame a problem, direct attention, and make the final result feel intentional.
 
@@ -143,7 +143,7 @@ Before full-stack systems became my main technical focus, photography and visual
 
 `Adobe Photoshop` · `Illustrator` · `Lightroom` · `Premiere Pro` · `Photography` · `Visual identity`
 
-## 🖥️ Beyond the code editor
+## Beyond the code editor
 
 - Repurposed a Sony Vaio into a headless Debian home server with network storage.
 - Built and troubleshot a multi-floor mesh/access-point home network.
@@ -155,7 +155,7 @@ Before full-stack systems became my main technical focus, photography and visual
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:1F6FEB&height=2&section=header" width="94%" alt="Section divider" />
 </div>
 
-## 🧰 Toolbox
+## Toolbox
 
 <div align="center">
 
@@ -183,7 +183,7 @@ Before full-stack systems became my main technical focus, photography and visual
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,50:7C3AED,100:22D3EE&height=2&section=header" width="94%" alt="Section divider" />
 </div>
 
-## 📊 GitHub signal
+## GitHub signal
 
 <div align="center">
 
@@ -202,7 +202,7 @@ Before full-stack systems became my main technical focus, photography and visual
 
 <sub>Public-repository language statistics show code volume, not proficiency.</sub>
 
-## 🐍 Contribution trail
+## Contribution trail
 
 <div align="center">
 
@@ -214,7 +214,7 @@ Before full-stack systems became my main technical focus, photography and visual
 
 </div>
 
-## 🎯 Current arc
+## Current arc
 
 - Turn my strongest engineering and creative work into one coherent portfolio
 - Strengthen backend architecture and relational database design
