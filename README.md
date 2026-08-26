@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:7C3AED&height=235&section=header&text=Abdelrahman%20Sameh&fontSize=45&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20Student%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20Linux%20Enthusiast&descAlignY=58&animation=fadeIn" width="100%" alt="Abdelrahman Sameh" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:7C3AED&height=235&section=header&text=Abdelrahman%20Sameh&fontSize=45&fontColor=FFFFFF&fontAlignY=36&desc=Computer%20Engineering%20Student%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20Linux%20Enthusiast&descAlignY=58&animation=fadeIn" width="100%" alt="Abdelrahman Sameh" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=900&color=63B3ED&center=true&vCenter=true&width=850&lines=I+follow+the+whole+system%3A+UI+%E2%86%92+API+%E2%86%92+database+%E2%86%92+deployment;Led+a+9-person+team+through+107+commits+and+185+tests;Code%2C+photography+and+design+are+all+ways+of+building+an+experience;Arch+Linux+daily+driver+%E2%80%94+curious+all+the+way+down" alt="Animated introduction" />
